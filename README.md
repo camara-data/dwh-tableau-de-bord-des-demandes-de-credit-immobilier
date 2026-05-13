@@ -40,7 +40,7 @@ J’ai conçu une solution BI complète basée sur SQL Server, SSIS et Power BI 
 * standardisation des données;
 * intégration de plusieurs sources;
 * consolidation et historisation des données.
-## 3) Les insights (résultats) générés
+## 3) Les insights générés
 Les tableaux de bord ont permis de mieux comprendre et piloter l’activité des prêts immobiliers grâce à:
 * l’identification des profils clients ayant le meilleur taux d’acceptation;
 * l’analyse de l’impact des revenus, de l’apport personnel et de la situation familiale sur les décisions de prêts;
