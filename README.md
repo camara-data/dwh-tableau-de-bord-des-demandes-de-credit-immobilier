@@ -16,7 +16,7 @@ Les conseillers bancaires devaient analyser plusieurs informations avant de pren
 Ce processus était chronophage et rendait le suivi des demandes complexe pour les agences et la cellule centrale.
 
 ## 2) Approche technique
-J’ai conçu une solution BI complète basée sur SQL Server, SSIS et Power BI afin de centraliser, transformer et analyser les données des demandes de prêts immobiliers.
+Mise en place une solution BI complète basée sur SQL Server, SSIS et Power BI afin de centraliser, transformer et analyser les données des demandes de prêts immobiliers.
 
 ### Approche mise en place
 * Centralisation des données dans un Data Warehouse sous SQL Server;
