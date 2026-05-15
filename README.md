@@ -1,4 +1,3 @@
-# Mini Projet SSIS-Sql Server-Power BI-Analyse des demandes de prêts immobiliers
 ## 1) Contexte
 Le réseau d’agences bancaires rencontrait plusieurs difficultés dans le traitement des demandes de prêts immobiliers:
 * des délais de décision trop longs;
